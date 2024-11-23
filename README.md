@@ -20,6 +20,6 @@ Interests:
  * Data visualization
  * Data engineering
 Let's Connect:
- * LinkedIn: [mubashshirkhan]
+ * LinkedIn: [@mubashshirkhan]
  * Twitter: []
  * Email: [mubashshirk7666@gmail.com ]
